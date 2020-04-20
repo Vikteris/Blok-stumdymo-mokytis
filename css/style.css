@@ -31,9 +31,9 @@ body {
 .top {
     background-color: #F60AFF;
     width: 40%;
+    height: 10%;
     position: absolute;
     left:30%;
-    padding: 20px;
     margin-top: 20px;
 
     
@@ -41,11 +41,12 @@ body {
 .bottom {
     background-color: #FFD1D7;
     width: 40%;
+    height: 10%;
     position: absolute;
     bottom: 0;
     left:30%;
     margin-bottom: 20px;
-    padding: 20px;
+    
 }
 .row {
     background-color: #87FFFF;
